@@ -1,0 +1,51 @@
+*{
+   margin: 0px;
+   padding: 0px;
+  
+   
+}
+.header{
+   background-image: linear-gradient(red,black);
+   background-size: contain;
+   padding: 1px;
+   
+}
+
+.container-fluid {background:rgb(206, 206, 230)}
+h1{
+   text-decoration-color: rgb(255, 255, 255) !important;
+ text-align: center; 
+}
+.img-responsive
+{
+   margin-left: 47px;
+   width: 356px;
+   height: 200px;
+   margin-top: -80px;
+   margin: 0px;
+}
+h2
+{
+   text-align: center;
+}
+h3
+{
+   float: right;
+   margin: 0px;
+   color:green;
+   text-align: justify;
+  
+   
+}
+.text-center{
+ text-align: justify !important;
+}
+
+
+img{width:200px}
+.font{font-size:20px}
+.link{font-size:18px;color:rgb(148,0,211)}
+
+
+
+  
